@@ -1,7 +1,16 @@
 # Namasthe React
 
-  - create React app
+  -create React app
   -configured tailwind css
+  -Header
+  -Login form
+  -sign Up form
+  -Firebase setup
+  -deployed our app to production 
+  -create SignUp user Account
+  -Implement sign in user api
+  -created redux-store user slice
+
 
 # features 
  -Login/SignIn
